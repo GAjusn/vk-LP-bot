@@ -1,0 +1,7 @@
+{
+    "auto_exit": false,
+    "access_token": "simpe VK token",
+    "me_token": "token for VK ME",
+    "trigger_word": "qq",
+    "prefix": "!"
+}
